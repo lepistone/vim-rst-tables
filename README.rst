@@ -3,6 +3,9 @@ vim-rst-tables
 
 .. image:: http://stillmaintained.com/nvie/vim-rst-tables.png
 
+.. image:: https://travis-ci.org/lepistone/vim-rst-tables.svg?branch=refresh-tests
+    :target: https://travis-ci.org/lepistone/vim-rst-tables
+
 .. contents:: **Contents**
    :local:
 
